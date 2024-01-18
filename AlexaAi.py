@@ -49,22 +49,22 @@ async def chatbot(client, message):
     umm = await message.reply_sticker("CAACAgUAAx0Cb3S_agAC5f5kvPFH8NXNLjRBWnAmI77d2VTAxgACywwAAl4T6FWb4uy8XHOfih4E")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/eacf4e7775e09fa16aac7.jpg",
+        photo=f"https://graph.org/file/9a8330c423b2fe0ec4d49.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
 ᴏғ ♻️ ʟᴇɢᴇɴᴅ ɢᴏᴅғᴀᴛʜᴇʀ 🔥
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ɢᴏᴅғᴀᴛʜᴇʀ](https://t.me/your_godfather_xd)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/ABOUT_GODFATHER/281)
-┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/The_Incricible)
-┣★ ɪɴᴄʀɪᴄɪʙʟᴇ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/INCRICIBLE_FED)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/The_Incricible/24)
-┣★ ᴄʜᴀᴛɢʀᴏᴜᴘ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/INCRICIBLE)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ɴᴀɴᴅᴀɴ](https://t.me/About_Nandan)
+┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/about_nandan)
+┣★ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/about_nandan)
+┣★ ɪɴᴄʀɪᴄɪʙʟᴇ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/nandan_src)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ALLAH_OF_TG)
+┣★ ᴄʜᴀᴛɢʀᴏᴜᴘ [ɪɴᴄʀɪᴄɪʙʟᴇ](https://t.me/ALLAH_OF_TH)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @INCRICIBLE""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @allah_of_tg""",
     ) 
 
 
